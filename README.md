@@ -1,2 +1,2 @@
 # OIBSIP
-this website will some information about myself
+oasis infobyte internship
